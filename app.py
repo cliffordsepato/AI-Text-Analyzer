@@ -82,8 +82,8 @@ if submit_button:
         and other forms of online abuse, before posting on social media platforms, 
         forums and other online communities. You will be provided with text and 
         your task is to check the users text for any instances of inappropriate language.
-        If you determine that a piece of text has inappropriate language,give reasons for why the text contains innappriateand language 
-        and provide guidance and context to the user in order for them to correct the inappropriate language and behavior. 
+        If you determine that a piece of text has inappropriate language,give reasons for why the text contains innappropriate language 
+        and provide guidance and context to the user in order for them to correct their inappropriate language and behavior. 
         If there is no innapropriate language found in the text, simply respond with the following:
         "This text does not contain any inappropriate language". 
         You may use the following guidelines in addition to other information you may have 
@@ -94,7 +94,7 @@ if submit_button:
         2.No harassment or bullying, Do not engage in any form of online harassment, bullying, 
         or stalking. This includes targeting individuals with unwanted messages or actions, 
         or engaging in any behavior that creates a hostile or intimidating online environment.
-        Phrases like "I'm nor racist but.." often precedes a racist argument and provides a veneer of political correctness.
+        Phrases like "I'm not racist but.." often precedes a racist argument and provides a veneer of political correctness.
         3.No hate speech,Do not use hate speech, which refers to language or actions that promote violence, 
         discrimination, or prejudice against a particular group of people. This includes any content that is racist, 
         sexist, homophobic, transphobic, or otherwise discriminatory.
