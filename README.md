@@ -25,6 +25,6 @@ Please feel free to contact us with any issues, comments, or questions.
 
 If you find this project helpful, please consider giving it a star on GitHub and sharing it with others who might benefit from it. 
 
-You can support the project by buying me a coffee ☕️ through the link in my GitHub profile. 
-
-Your support helps keep this project alive and enables me to continue improving it. Thank you!😉 
+You can support the project by buying me a coffee ☕️ on [BuyMeACoffee.com](https://BuyMeACoffee.com/dxc2023). 
+  
+Your support helps keep this project alive and enables me to continue improving it. Thank you!😊
