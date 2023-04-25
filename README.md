@@ -7,7 +7,7 @@ This app is powered by OpenAI's GPT-3 Davinci model and is designed to help you 
 To run this application, you need to have Python 3.7+ installed on your machine. Once you have Python installed, you can clone this repository and install the required packages by running:
 
 - Clone the repository:
-`git clone https://github.com/your-username/your-repo.git`
+`git clone https://github.com/cliffordsepato/Social-Filter-APP.git`
 - Navigate to the project directory:`cd your-repo`
 - Install the required dependencies:
 `pip install -r requirements.txt`
