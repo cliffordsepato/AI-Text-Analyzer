@@ -32,5 +32,3 @@ Your support helps keep this project alive and enables me to continue improving 
 # License
 
 The Social Filter app is released under the MIT License.
-
-Copyright (c) 2023 Clifford Sepato
