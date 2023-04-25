@@ -27,6 +27,14 @@ The application offers the following features:
 * Robust examples: The app includes both appropriate and inappropriate language examples, allowing users to test the app with a variety of different inputs and contexts.
 * Easy to use: The app has a simple and intuitive user interface that makes it easy for users to check their text for inappropriate language.
 
+# Contributing 🤝
+Contributions are always welcome! If you want to contribute to this project, please follow these steps:
+
+* Fork this repository.
+* Create a new branch with your feature or bug fix.
+* Commit your changes and push them to your fork.
+* Submit a pull request.
+
 
 # Author 📝
 
@@ -39,7 +47,7 @@ Please feel free to contact us with any issues, comments, or questions.
 
 # How to support this project ❤️
 
-If you find this project helpful, please consider giving it a star on GitHub and sharing it with others who might benefit from it. 
+If you find this project helpful, please consider giving it a star⭐ on GitHub and sharing it with others who might benefit from it. 
 
 You can support the project by buying me a coffee ☕️ on [BuyMeACoffee.com](https://BuyMeACoffee.com/dxc2023). 
   
