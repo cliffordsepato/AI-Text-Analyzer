@@ -21,6 +21,11 @@ To start the application, run the following command:
 # Features 🚀
 The application offers the following features:
 
+* Powered by Artificial Intelligence(AI)
+* Detects hate speech, offensive language, and other forms of online abuse.
+* Provides feedback and suggestions: If the app detects any problematic language, it provides clear and specific feedback to the user 
+* Robust examples: The app includes both appropriate and inappropriate language examples, allowing users to test the app with a variety of different inputs and contexts.
+
 
 # Author 📝
 
