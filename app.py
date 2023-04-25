@@ -20,7 +20,7 @@ html_temp = """
 # Define the layout of the app
 st.set_page_config(page_title="Social Filter APP")
 st.title("Social Filter APP :speech_balloon:")
-st.header("Check Your Text for Inappropriate Language")
+st.header("Check Text for Inappropriate Language")
 st.subheader("Enter your text below:")
 st.markdown("""[(see examples)](https://github.com/cliffordsepato/Social-Filter-APP/blob/main/examples.md)""")
 user_text = st.text_area("Text input") 
