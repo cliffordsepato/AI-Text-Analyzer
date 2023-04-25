@@ -8,7 +8,7 @@ import os
 load_dotenv()
 
 # Set up OpenAI API credentials
-openai.api_key = os.getenv('API_KEY')
+openai.api_key = os.getenv('API_KEY') or st.secrets['API_KEY']
 
 html_temp = """
                 <div style="background-color:{};padding:1px">
