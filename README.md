@@ -12,7 +12,7 @@ To start the application, run the following command:
 
 `streamlit run app.py`
 
-## Authors
+# Author 📝
 
 Please feel free to contact us with any issues, comments, or questions.
 
@@ -28,3 +28,9 @@ If you find this project helpful, please consider giving it a star on GitHub and
 You can support the project by buying me a coffee ☕️ on [BuyMeACoffee.com](https://BuyMeACoffee.com/dxc2023). 
   
 Your support helps keep this project alive and enables me to continue improving it. Thank you!😊
+
+# License
+
+The Social Filter app is released under the MIT License.
+
+Copyright (c) 2023 Clifford Sepato
