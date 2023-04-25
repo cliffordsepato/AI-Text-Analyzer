@@ -1,4 +1,5 @@
 # Social Filter App 💬
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://social-filter.streamlit.app)
 
 This app is powered by OpenAI's GPT-3 Davinci model and is designed to help you ensure your text is appropriate and free from harmful language. The app aims to promote safe and respectful online communication, while also empowering users to take responsibility for the content they post online.
 
