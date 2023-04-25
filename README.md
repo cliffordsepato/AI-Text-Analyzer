@@ -29,6 +29,9 @@ Once you have created the .env file, you can load the API key into your app by i
 import os
 import openai
 
+# load environment variable
+load_dotenv()
+
 # Load the API key from the environment variable
 openai.api_key = os.getenv("OPENAI_API_KEY")
 ```
