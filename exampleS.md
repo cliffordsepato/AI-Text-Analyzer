@@ -14,5 +14,5 @@
 | Shut up, nobody cares what you think🤐.  | Inappropriate ❌ |
 | You're a waste of space💔. | Inappropriate ❌ |
 | Why did the tomato turn red? Because it saw the salad dressing!🤣 | Appropriate ✅ |
-| I'm going to mansplain this to you...🗣 | Inappropriate ❌ |
+| I'm going to mansplain this to you...🧔 | Inappropriate ❌ |
 | What do you call a group of men with no women present? A sausage fest😂. | Inappropriate❌ |
