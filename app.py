@@ -29,7 +29,7 @@ submit_button = st.button("Check Text")
 with st.sidebar:
     st.markdown("""
     # About 🤖 
-    Social Filter is powered by OpenAI's GPT-3 [Davinci model](https://platform.openai.com/docs/models/overview) and is designed to help you check your text for inappropriate language, including hate speech, offensive language, and other forms of online abuse.
+    Social Filter is powered by OpenAI's GPT-3 [Davinci model](https://platform.openai.com/docs/models/overview) and is designed to detect inappropriate language, including hate speech, offensive language, and other forms of online abuse.
     """)
     st.markdown(html_temp.format("rgba(55, 53, 47, 0.16)"),unsafe_allow_html=True)
     st.markdown("""
