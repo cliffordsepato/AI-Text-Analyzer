@@ -20,3 +20,11 @@ Please feel free to contact us with any issues, comments, or questions.
 
 - Email: <codingwithcliff@gmail.com>
 - LinkedIn: https://linkedin.com/in/cliffordsepato
+
+# How to support this project ❤️
+
+If you find this project helpful, please consider giving it a star on GitHub and sharing it with others who might benefit from it. 
+
+You can support the project by buying me a coffee ☕️ through the link in my GitHub profile. 
+
+Your support helps keep this project alive and enables me to continue improving it. Thank you!😉 
