@@ -16,7 +16,7 @@ To start the application, run the following command:
 
 Please feel free to contact us with any issues, comments, or questions.
 
-#### Clifford Sepato [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40Mitch_P)](https://twitter.com/csepato)
+#### Clifford Sepato [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40csepato)](https://twitter.com/csepato)
 
 - Email: <codingwithcliff@gmail.com>
 - LinkedIn: https://linkedin.com/in/cliffordsepato
