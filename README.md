@@ -24,11 +24,14 @@ To run this application, you need to have Python 3.7+ installed on your machine.
 
 Once you have created the .env file, you can load the API key into your app by importing the os module and using the os.getenv() function to read the value of the OPENAI_API_KEY environment variable. Here is an example:
 
+
+```
 import os
 import openai
 
 # Load the API key from the environment variable
 openai.api_key = os.getenv("OPENAI_API_KEY")
+```
 
 # Usage ✨
 
