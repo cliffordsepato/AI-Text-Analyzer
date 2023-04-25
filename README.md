@@ -12,6 +12,24 @@ To run this application, you need to have Python 3.7+ installed on your machine.
 - Install the required dependencies:
 `pip install -r requirements.txt`
 
+### Additional steps
+
+1. Open a text editor or code editor on your local machine.
+
+2. Create a new file and save it as ".env" in your project directory.
+
+3. Add the following line to the file, replacing "your_api_key_here" with your actual API key:`OPENAI_API_KEY=your_api_key_here`
+
+4. Save the file.
+
+Once you have created the .env file, you can load the API key into your app by importing the os module and using the os.getenv() function to read the value of the OPENAI_API_KEY environment variable. Here is an example:
+
+import os
+import openai
+
+# Load the API key from the environment variable
+openai.api_key = os.getenv("OPENAI_API_KEY")
+
 # Usage ✨
 
 To start the application, run the following command:
