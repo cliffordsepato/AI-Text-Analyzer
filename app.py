@@ -124,7 +124,7 @@ if submit_button:
         st.warning(results)
         
     if clear_button:
-    user_text = ""
-    results = ""
+      user_text = ""
+      results = ""
         
-     
+    
