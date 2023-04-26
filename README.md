@@ -3,7 +3,7 @@
 
 This app is powered by OpenAI's GPT-3 Davinci model and is designed to help you ensure your text is appropriate and free from harmful language. The app aims to promote safe and respectful online communication, while also empowering users to take responsibility for the content they post online.
 
-[![Streamlit Demo app #1](https://img.youtube.com/vi/u9BRI4LgMM0/0.jpg)](https://www.youtube.com/watch?v=u9BRI4LgMM0)
+[![Streamlit Demo app #1](https://img.youtube.com/vi/u9BRI4LgMM0/0.jpg)](https://youtu.be/u9BRI4LgMM0)
 
 # Installation 💥
 
