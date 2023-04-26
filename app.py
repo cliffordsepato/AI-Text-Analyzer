@@ -125,6 +125,6 @@ if submit_button:
         
     if clear_button:
       user_text = ""
-      results = ""
+      #results = ""
         
     
