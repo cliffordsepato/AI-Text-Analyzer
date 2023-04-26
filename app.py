@@ -25,7 +25,6 @@ st.subheader("Enter your text below:")
 st.markdown("""[(see examples)](https://github.com/cliffordsepato/Social-Filter-APP/blob/main/examples.md)""")
 user_text = st.text_area("Text input") 
 submit_button = st.button("Check Text")
-clear_button = st.button("Clear")
 
 with st.sidebar:
     st.markdown("""
@@ -122,9 +121,5 @@ if submit_button:
         st.success("This text does not contain any inappropriate language.")
     else:
         st.warning(results)
-        
-    if clear_button:
-      user_text = ""
-      #results = ""
         
     
