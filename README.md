@@ -12,7 +12,7 @@ To run this application, you need to have Python 3.7+ installed on your machine.
 
 - Clone the repository:
 `git clone https://github.com/cliffordsepato/Social-Filter-APP.git`
-- Navigate to the project directory:`cd your-repo`
+- Navigate to the project directory:`cd <your-repo>`
 - Install the required dependencies:
 `pip install -r requirements.txt`
 
