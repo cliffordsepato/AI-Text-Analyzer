@@ -66,7 +66,7 @@ Contributions are always welcome! If you want to contribute to this project, ple
 
 # Author 📝
 
-Please feel free to contact us with any issues, comments, or questions.
+Please feel free to contact me with any issues, comments, or questions.
 
 #### Clifford Sepato [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40csepato)](https://twitter.com/csepato)
 
