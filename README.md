@@ -1,7 +1,7 @@
 # Social Filter App 💬
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://social-filter.streamlit.app)
 
-This streamlit app is powered by OpenAI's GPT-3 Davinci model and is designed to detect inappropriate language, including hate speech, offensive language, and other forms of online abuse. The app aims to promote safe and respectful online communication, while also empowering users to take responsibility for the content they post online.
+This streamlit app is powered by OpenAI's GPT-3 Davinci model and is designed to detect inappropriate language, including hate speech, offensive language, and other forms of online abuse. Check your text for any problematic language that might cause offense before posting on social media.
 
 [![Streamlit Demo app #1](https://img.youtube.com/vi/u9BRI4LgMM0/0.jpg)](https://youtu.be/u9BRI4LgMM0)
 
