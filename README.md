@@ -75,11 +75,15 @@ Please feel free to contact us with any issues, comments, or questions.
 
 # How to support this project ❤️
 
-If you find this project helpful, please consider giving it a star⭐ on GitHub and sharing it with others who might benefit from it. 
+You can support the project by buying me a coffee ☕️.
 
-You can support the project by buying me a coffee ☕️ on [BuyMeACoffee.com](https://BuyMeACoffee.com/dxc2023). 
+<a href="https://www.buymeacoffee.com/dxc2023" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+If you find this project helpful, please consider giving it a star⭐ on GitHub and sharing it with others who might benefit from it. 
   
-Your support helps keep this project alive and enables me to continue improving it. Thank you!😊
+Your support helps keep this project alive and enables me to continue improving it. 
+
+Thank you!😊
 
 # License
 
